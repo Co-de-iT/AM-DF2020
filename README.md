@@ -13,4 +13,6 @@ Material from Architectural Machines - DigitalFutures2020 workshop. Some useful 
 Instructions for setup and installation of required components at [this link](https://www.notion.so/Architectural-Machines-installation-steps-a4247eab856a4205828aee20df48bf21)
   
 ---
+This material is licensed under the GNU General Public License v3.0 - if you use this material please cite as follows: "Made using Architectural Machines ws material  - developed by Alessio Erioli - Co-de-iT"
+
 **IMPORTANT NOTE**: the material is provided "as is", without any warranty or support.
