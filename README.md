@@ -3,7 +3,7 @@
 # AM-DF2020
 Material from Architectural Machines - DigitalFutures2020 workshop. Some useful links:
 
-. [Full report](http://www.co-de-it.com/wordpress/architectural-machines-report.html)  
+. [Full report](https://www.co-de-it.com/architectural-machines-report.html)  
   
 . [Projects video](https://www.youtube.com/watch?v=_ycZrpQNmlc)  
   
